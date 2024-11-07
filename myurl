@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Wicklow Dog Shelter | ADOPT A DOG</title>
+	<link rel="stylesheet" href="external.css">
+  </head>
+
+
+  <body>
+	<nav>
+   	  <ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="page2.html">Adopt a Dog</a></li>
+		<li><a href="page3.html">Donate</a></li>
+	  </ul>
+	</nav>
+
+	<h1>Our Adoption Policy :</h1>
+
+	<p>Each dog we rescue is important to us and we are committed to its welfare and happiness. <br>All of our dogs are veterinary checked, vaccinated, neutered/spayed, microchipped, de-fleaed and wormed.<br>We never put down a healthy dog – by ‘healthy’ we mean a dog in good mental and physical health – as we think that if a dog can be <br>rehomed without danger to the public and live a happy, pain-free life, then everything possible should be done to avoid euthanasia.
+	<p>We microchip all of our dogs. Microchipping is a very quick procedure which saves many dog’s lives <br>every year as a microchipped dog is far more likely to be reunited with its owners if it gets lost or stolen.</p>
+
+	<div class='mycontainer'>
+		<div class="dogs">
+		<img src="dog1.jpg" alt="dog1" width="90%" height="90%">
+		<p id=names><b> Kira </b></p>
+		</div>
+
+		<div class="dogs">
+		<img src="dog2.jpg" alt="dog1" width="90%" height="90%">
+		<p id=names><b> Cooper </b></p>
+		</div>
+
+		<div class="dogs">
+		<img src="dog3.jpg" alt="dog1" width="90%" height="90%">
+		<p id=names><b> Paddy </b></p>
+		</div>
+
+		<div class="dogs">
+		<img src="dog4.jpg" alt="dog4" width="90%" height="90%">
+		<p id=names><b> Lola </b></p>
+		</div>
+	</div>
+
+  </body>
+</html>
